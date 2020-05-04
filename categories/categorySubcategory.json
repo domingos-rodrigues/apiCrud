@@ -1,0 +1,94 @@
+[
+    {
+        "id": "6456",
+        "category_id": 4546,
+        "name": "sdfgdf",
+        "created": "2020-05-04 00:42:04",
+        "modified": "2020-05-04 02:13:27",
+        "subcategories": [
+            {
+                "id": 2147483647,
+                "category_id": "4546",
+                "name": "ghjghjgh",
+                "created": "2020-05-04 01:28:39",
+                "modified": "2020-05-04 01:28:39"
+            },
+            {
+                "id": 211,
+                "category_id": "4546",
+                "name": "gsdfg sdfg sdfg ",
+                "created": "2020-05-04 01:29:40",
+                "modified": "2020-05-04 01:29:40"
+            },
+            {
+                "id": 345,
+                "category_id": "4546",
+                "name": "rtertert",
+                "created": "2020-05-04 02:12:34",
+                "modified": "2020-05-04 02:12:34"
+            },
+            {
+                "id": 344,
+                "category_id": 4546,
+                "name": "jghj",
+                "created": "2020-05-04 09:53:43",
+                "modified": "2020-05-04 09:53:43"
+            }
+        ]
+    },
+    {
+        "id": "34545",
+        "category_id": "345",
+        "name": "hhhhhh",
+        "created": "2020-05-04 02:12:13",
+        "modified": "2020-05-04 08:21:00",
+        "subcategories": [
+            {
+                "id": 345,
+                "category_id": 345,
+                "name": "ttttt",
+                "created": "2020-05-04 13:54:31",
+                "modified": "2020-05-04 13:54:31"
+            }
+        ]
+    },
+    {
+        "id": "656",
+        "category_id": "654",
+        "name": "dfgdfgdf",
+        "created": "2020-05-04 02:14:44",
+        "modified": "2020-05-04 13:56:44",
+        "subcategories": {
+            "1": {
+                "id": 5456,
+                "category_id": 654,
+                "name": "a444444ff",
+                "created": "2020-05-04 13:37:06",
+                "modified": "2020-05-04 13:37:06"
+            },
+            "2": {
+                "id": 4545445,
+                "category_id": 654,
+                "name": "FGDFGRT",
+                "created": "2020-05-04 14:08:08",
+                "modified": "2020-05-04 14:08:08"
+            }
+        }
+    },
+    {
+        "id": 456,
+        "category_id": 46,
+        "name": "averseab",
+        "created": "2020-05-04 13:06:38",
+        "modified": "2020-05-04 13:06:38",
+        "subcategories": [
+            {
+                "id": 121212,
+                "category_id": 46,
+                "name": "asaas",
+                "created": "2020-05-04 13:07:15",
+                "modified": "2020-05-04 13:07:15"
+            }
+        ]
+    }
+]
